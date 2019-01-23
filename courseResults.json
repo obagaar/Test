@@ -1,0 +1,182 @@
+{
+    "courseResults": [
+        {
+            "courseNumber": "PROG1017F",
+            "courseName": "Introduction to Programming",
+            "studentMarks": [
+                {
+                    "id": 11111,
+                    "mark": 65
+                },
+                {
+                    "id": 22222,
+                    "mark": 20
+                },
+                {
+                    "id": 33333,
+                    "mark": 90
+                },
+                {
+                    "id": 44444,
+                    "mark": 77
+                },
+                {
+                    "id": 55555,
+                    "mark": 50
+                }
+                ]
+        },
+        {
+            "courseNumber": "MULT1083",
+            "courseName": "Fundamentals of Web Design",
+            "studentMarks": [
+                {
+                    "id": 11111,
+                    "mark": 82
+                },
+                {
+                    "id": 22222,
+                    "mark": 91
+                },
+                {
+                    "id": 33333,
+                    "mark": 15
+                },
+                {
+                    "id": 44444,
+                    "mark": 60
+                }
+                ]
+        },
+        {
+            "courseNumber": "CEIO1048E",
+            "courseName": "Intro to PC Hardware and Software",
+            "studentMarks": [
+                {
+                    "id": 11111,
+                    "mark": 75
+                },
+                {
+                    "id": 22222,
+                    "mark": 65
+                },
+                {
+                    "id": 33333,
+                    "mark": 85
+                }]
+        },
+        {
+            "courseNumber": "NCRC1136",
+            "courseName": "Networking for Home and Small Business",
+            "studentMarks": [
+                {
+                    "id": 11111,
+                    "mark": 88
+                },
+                {
+                    "id": 22222,
+                    "mark": 26
+                },
+                {
+                    "id": 33333,
+                    "mark": 55
+                },
+                {
+                    "id": 44444,
+                    "mark": 61
+                },
+                {
+                    "id": 55555,
+                    "mark": 98
+                },
+                {
+                    "id": 66666,
+                    "mark": 84
+                },
+                {
+                    "id": 77777,
+                    "mark": 74
+                }]
+        },
+        {
+            "courseNumber": "SAAL1388",
+            "courseName": "Introduction to Computer Apps",
+            "studentMarks": [
+                {
+                    "id": 11111,
+                    "mark": 78
+                },
+                {
+                    "id": 22222,
+                    "mark": 100
+                },
+                {
+                    "id": 33333,
+                    "mark": 70
+                },
+                {
+                    "id": 44444,
+                    "mark": 80
+                },
+                {
+                    "id": 55555,
+                    "mark": 88
+                }]
+        },
+        {
+            "courseNumber": "PERS1065",
+            "courseName": "Interpersonal Communication",
+            "studentMarks": [
+                {
+                    "id": 11111,
+                    "mark": 71
+                },
+                {
+                    "id": 22222,
+                    "mark": 81
+                },
+                {
+                    "id": 33333,
+                    "mark": 67
+                },
+                {
+                    "id": 44444,
+                    "mark": 90
+                }
+                ]
+        },
+        {
+            "courseNumber": "COMM1155",
+            "courseName": "Applied Writing Skills",
+            "studentMarks": [
+                {
+                    "id": 11111,
+                    "mark": 90
+                },
+                {
+                    "id": 22222,
+                    "mark": 61
+                },
+                {
+                    "id": 33333,
+                    "mark": 70
+                },
+                {
+                    "id": 44444,
+                    "mark": 48
+                },
+                {
+                    "id": 55555,
+                    "mark": 100
+                },
+                {
+                    "id": 66666,
+                    "mark": 93
+                },
+                {
+                    "id": 77777,
+                    "mark": 86
+                }]
+        }
+    ]
+}

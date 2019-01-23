@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+.course {
+	background-color: lightgrey;
+	border: 1px dashed black;
+	padding: 15px;
+	margin: 15px;
+	width: 40%;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+	padding: 15px;
+	
+}
